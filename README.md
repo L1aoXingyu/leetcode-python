@@ -9,3 +9,6 @@ This is my leetcode solutions with python
 
 [5.Longest Palindromic Substring]()
 
+[458.Last Position of Target]()
+
+[* 594.strStr ll]()
