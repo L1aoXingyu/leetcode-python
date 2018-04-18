@@ -24,7 +24,7 @@ Output: "bb"
 
 
 
-Solution:
+Solution 1:
 
 ```python
 class Solution(object):
@@ -71,3 +71,45 @@ class Solution(object):
 
 
 Notes: 不断枚举中点，通过中点向两边延伸，判断是否是回文。
+
+
+
+Solution2 ([Manacher Algorithm](https://segmentfault.com/a/1190000003914228)):
+
+```python
+class Solution:
+    """
+    @param s: input string
+    @return: the longest palindromic substring
+    """
+    def longestPalindrome(self, s):
+        # write your code here
+        s = '#' + '#'.join(s) + '#'
+        RL = [0] * len(s)
+        maxRight = 0
+        pos = 0
+        maxLen = 0
+        maxCenter = 0
+        for i in range(len(s)):
+            if i < maxRight:
+                RL[i] = min(RL[2*pos-i], maxRight-i)
+            else:
+                RL[i] = 1
+            while i - RL[i] >= 0 and i + RL[i] < len(s) and s[i-RL[i]] == s[i+RL[i]]:
+                RL[i] += 1
+            if RL[i] + i - 1 > maxRight:
+                maxRight = RL[i] + i - 1
+                pos = i
+            if RL[i] > maxLen:
+                maxLen = RL[i]
+                maxCenter = i
+        maxsubstring = s[maxCenter-RL[maxCenter]+1:maxCenter+RL[maxCenter]]
+        
+        substring = ''
+        for i in maxsubstring:
+            if i != '#':
+                substring += i
+            
+        return substring
+```
+
