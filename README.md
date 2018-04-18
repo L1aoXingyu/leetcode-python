@@ -1,5 +1,7 @@
-# leetcode-python
+# Leetcode/Lintcode-python
 This is my leetcode solutions with python
+
+### Introduction
 
 [409.Longest Palindrome](https://github.com/SherlockLiao/leetcode-python/blob/master/Longest%20Palindrome.md)
 
@@ -14,3 +16,11 @@ This is my leetcode solutions with python
 [* 594.strStr ll](https://github.com/SherlockLiao/leetcode-python/blob/master/strStrll.md)
 
 [235. Prime Factorization]()
+
+### Binary Search
+
+[235.Prime Factorization]()
+
+[457. Classical Binary Search]()
+
+[Position of Target]()
