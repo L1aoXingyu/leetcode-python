@@ -11,16 +11,23 @@ This is my leetcode solutions with python
 
 [5.Longest Palindromic Substring](https://github.com/SherlockLiao/leetcode-python/blob/master/Longest%20Palindromic%20Substring.md)
 
-[458.Last Position of Target](https://github.com/SherlockLiao/leetcode-python/blob/master/Last%20Position%20of%20Target.md)
-
 [* 594.strStr ll](https://github.com/SherlockLiao/leetcode-python/blob/master/strStrll.md)
 
-[235. Prime Factorization]()
 
 ### Binary Search
 
 [235.Prime Factorization]()
 
-[457. Classical Binary Search]()
+[457.Classical Binary Search]()
 
 [Position of Target]()
+
+[74.First Bad Version]()
+
+[460.Find K Closest Elements]()
+
+[447.Search in a Big Sorted Array]()
+
+[159.Find Minimum in Rotated Sorted Array]()
+
+[75. Find Peak Element]()
