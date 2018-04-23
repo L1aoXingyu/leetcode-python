@@ -21,13 +21,11 @@ class Solution(object):
                 del store_dic[single_str]
             else:
                 store_dic[single_str] = 1
-        
+
         if len(store_dic) == 0:
             return len(s) - len(store_dic)
         else:
             return len(s) - len(store_dic) + 1
 ```
-
-
 
 Notes: 只需要建立 hash 表判断字符串中的是否有奇数，有多少个奇数就 ok 了。

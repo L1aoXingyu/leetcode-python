@@ -30,4 +30,22 @@ This is my leetcode solutions with python
 
 [159.Find Minimum in Rotated Sorted Array]()
 
-[75. Find Peak Element]()
+[75.Find Peak Element]()
+
+[62.Search in Rotated Sorted Array]()
+
+[140.Fast Power]()
+
+[428.Pow(x, n)]()
+
+[845.Greatest Common Divisor]()
+
+[39.Recover Rotated Sorted Array]()
+
+[8.Rotate String]()
+
+### Two Pointers
+
+[56.Two Sum]()
+
+
