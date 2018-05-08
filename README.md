@@ -55,3 +55,5 @@ This is my leetcode solutions with python
 [521.Remove Duplicate Number](https://github.com/L1aoXingyu/leetcode-python/blob/master/521.md)
 
 [604.Window Sum](https://github.com/L1aoXingyu/leetcode-python/blob/master/694.md)
+
+[610.Two Sum - Difference equals to target]()
