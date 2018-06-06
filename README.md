@@ -65,3 +65,38 @@ This is my leetcode solutions with python
 [5.Kth Largest Elemenet](https://github.com/L1aoXingyu/leetcode-python/blob/master/src/5.md)
 
 [607.Two Sum III - Data structure design]()
+
+[539.Move Zeroes]()
+
+[608.Two Sum II]()
+
+[102.Linked List Cycle]()
+
+[103.Linked List Cycle II]()
+
+[380.Intersection of Two Linked Lists]()
+
+[148.Sort Colors]()
+
+[894.Pancake Sorting]()
+
+[587.Two Sum - Unique paris]()
+
+[57.3Sum]()
+
+[382.Trangle Count]()
+
+[609.Two Sum - Less than or eqaul to target]()
+
+[443.Two Sum - Greater than target]()
+
+[533.Two Sum - Closest to target]()
+
+[59.3Sum Closest]()
+
+[58.4Sum]()
+
+[610.Two Sum - Difference equals to target]()
+
+[31.Partion Array]()
+
