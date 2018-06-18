@@ -100,3 +100,21 @@ This is my leetcode solutions with python
 
 [31.Partion Array]()
 
+[461. Kth Smallest Numbers in Unsorted Array]()
+
+[373. Partition Array by Odd and Even]()
+
+[144. Interleaving Positive and Negative Numbers]()
+
+[49. Sort Letters by Case]()
+
+[143. Sort Colors II]()
+
+### BFS
+[127. Topological Sorting]()
+
+[69. Binary Tree Level Order Traversal]()
+
+[7. Serialize and Deserialize Binary Tree]()
+
+[70. Binary Tree Level Order Traversal II]()
