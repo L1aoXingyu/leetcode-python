@@ -126,3 +126,17 @@ This is my leetcode solutions with python
 [137. Clone Graph]()
 
 [120. Word Ladder]()
+
+[433. Number of Islands]()
+
+[611. Knight Shortest Path]()
+
+[615. Course Schedule]()
+
+[616. Course Schedule II]()
+
+[892. Alien Dictionary]()
+
+[605. Sequence Reconstruction]()
+
+[178. Graph Valid Tree]()
