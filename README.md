@@ -140,3 +140,15 @@ This is my leetcode solutions with python
 [605. Sequence Reconstruction]()
 
 [178. Graph Valid Tree]()
+
+[618. Search Graph Nodes]()
+
+[431. Connected Component in Undirected Graph]()
+
+[598. Zombie in Matrix]()
+
+[573. Build Post Office II]()
+
+[814. Shortest Path in Undirected Graph]()
+
+[630. Knight Shortest Path II]()
